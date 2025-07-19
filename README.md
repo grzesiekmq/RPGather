@@ -48,3 +48,8 @@ Contribution & Development
 
 This project is in early development and maintained solo. Feedback, suggestions, and contributions are welcome.
 Feel free to open issues or pull requests on the repository.
+
+---
+
+*README assisted by ChatGPT.  
+The project code and design were created solely by the author without AI assistance.*
